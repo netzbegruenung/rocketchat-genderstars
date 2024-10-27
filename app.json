@@ -12,5 +12,7 @@
     "nameSlug": "genderstars",
     "classFile": "GenderStarsApp.ts",
     "description": "Escape Gender Stars",
-    "implements": []
+    "implements": [
+        "IPreMessageSentModify"
+    ]
 }
