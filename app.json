@@ -1,0 +1,16 @@
+{
+    "id": "e7c58055-e8c6-4504-a331-07ebe41d8eab",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Netzbegruenung",
+        "homepage": "https://netzbegruenung.de",
+        "support": "https://netzbegruenung.de"
+    },
+    "name": "GenderStars",
+    "nameSlug": "genderstars",
+    "classFile": "GenderStarsApp.ts",
+    "description": "Escape Gender Stars",
+    "implements": []
+}
